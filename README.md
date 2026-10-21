@@ -1,1 +1,2 @@
-# cs-float-range-calculator
+# Overview
+Quick tool for calculating the probability for an item in Counter-Strike 2 to receive any particular "exterior" rating, given the maximum and minimum possible float values for that item. Float values are floats that describe the wear of Counter-Strike 2 weapon skins in a continuous manner, with these values being categorized into named "exterior" ratings which is what is displayed in-game. The maximum and minimum values defined by the weapon skin type determines the probability of any particular float value in between being generated, and this script automates that calculation.
